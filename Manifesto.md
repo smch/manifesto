@@ -31,17 +31,21 @@ When I state something, I do so from within the confines of my own limitations; 
 * Fictions that give meaning to reality
 
 ## Why I am inhumane and why the arguments I make won’t go far
+The fact that my beliefs won't transmit widely is perhaps a result of an evolutionarily selective pressure to favour individuals who on average neither hold nor have the capacity to hold such beliefs, as such beliefs do not contribute to a stable society, and so do not help the constellation of characteristics that permit someone to believe them to spread their genes wildly.
 
-* I don’t like sport or dancing or Christmas or politics or pets or other socially binding rituals; weddings, newspapers, television, radio, pets
-* I have no religion, no faith
-* I evince no national pride, no loyalty
-* I don't consider children to be an intrinsically good thing
+> False beliefs that happen to promote stable societies tend to propagate because people who hold these beliefs tend to live in stable societies, which provide the means by which false beliefs propagate.
+> -- Daniel M. Gilbert, Stumbling on Happiness
+
+### Personal characteristics that diminish the transmissibility of my beliefs
+* I don’t like or engage with socially normative rituals and behaviours or group activities; sport, weddings, newspapers, television, radio, dancing or Christmas or politics or pets, and so find it hard to relate and fully connect with those who do
+* I have no religion, no faith, and can hardly expect to be taken seriously by those who do
+* I evince no national pride, no loyalty, and thus invite the justifiable scorn and contempt of those who do
+* I don't consider children to be an intrinsically good thing, and thus alienate myself from the majority
 * The things I believe don’t make me or other people happier or help them to live their lives better
-    - But they do allow me to feel like a misunderstood outsider, which is familiar and comforting ground
-* I overcomplicate things and question everything
-* I don’t like or take part in group activities
-* I am proud, vain, cowardly, volatile, honest, like to be a minority of one, like to be a victim, like to not have responsibility, selfish, arrogant (think I understand my own and other people’s motives), jealous, inferiority complex
-* Don’t interact with other people unless I can see something in it for me, hypocritical
+    - (But they do allow me to feel like a misunderstood outsider, which is familiar and comforting ground for me, which is no doubt why I cling to these beliefs)
+* I overcomplicate things and question everything; an impracticable stance that throws impediments in the way of other people making the progress they care about
+* I am proud, vain, cowardly, volatile, honest, enjoy being a minority of one, like to be a victim, like to not have responsibility, selfish, arrogant (think I understand my own and other people’s motives), jealous, suffer from an inferiority complex; all of which are rightly regarded as contemptible
+* I don’t interact with other people unless I can see something in it for me, hypocritical; distances me from people who feel they act as part of a wider concern
 * I recognise all of these things but don’t try to change myself to make my own or other people’s lives better
 
 # Unresolved
