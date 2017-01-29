@@ -1,7 +1,9 @@
 # Manifesto
 
-# The hedge
+# The disclaimer
 When I state something, I do so from within the confines of my own limitations; from behind the paucity of my experience and within the limitations of the data available to me, from a viewpoint not without biases, known and unknown, not without sloppiness, inconsistency and mutability. I make statements conscious of my own limited ability to integrate and process what limited information I use to support them. Everything I grope towards is forever subject to revision, refinement, disavowal, rewording. With this qualification always and ever present, my intention remains to be clear and true, insofar as that is possible at all.
+
+This document should not be taken to be comprehensive, complete, nor consistent.
 
 > Every philosophical discovery which I made so flattered my conceit that I often imagined myself to be a great man discovering new truths for the benefit of humanity
 
@@ -17,12 +19,13 @@ When I state something, I do so from within the confines of my own limitations; 
 ## Beliefs
 
 * We cannot know what the truth of reality is
+* Logic and rationality and scepticism are seductive in their power, but there are gaps at their foundation that are unresolved to me at present. If you doubt everything, the only thing you can not doubt is that you are a thinking thing, as per Descartes. If you cannot know that your senses are not deceived, and that nothing in the world is as you perceive it to be, then how can you be sure that there is such a thing as rational argument in the 'real' reality beyond the access of your potentially deluded senses? That logic is even a concept that holds? Of course it might seem that this is the case -- but how do you know that what you sense and feel and think are in any way correspondent to reality? There is an element of faith required to believe that there is such a thing as external truth, and there is no disinterested reason that I have seen to make this leap of faith; the only reasons I can find is it is expedient to do so and we are conditioned to do so (and life would be impossible without such a leap). I cannot find a convincing argument that ensures that I am not a Brain in a Vat nor deceived by an evil demon. Is it not possible that there could exist an overall illogical system which nevertheless contained within itself thinking things that perceived logical relations in their thought and their observable part of the system?
 * Either we are in a determined universe, in which case all of our actions are pre-ordained and we are merely automata with the convincing illusion of agency, of free will, or we are in a probabilistic universe, where an element of pure randomness rules, where nothing but chaos is at the root of all perceived order
+* Problems then arise about law, ethics, morality... If my actions are part of a physical system the states of which were determined since the beginning of time, how could I ever have behaved any other way than the way I eventually did? Likewise in an indeterminate universe; if everything is at based resting on randomness, how can I be culpable for that? There is no way to operate a human society taking these apparent truths in to account, and so they must be discarded for expediency.
 * There are fundamentally unanswerable questions — and most pertinently so in one person's lifetime
-* Meaning and purpose bring happiness
-* You can never know absolutely what the right course of action is
-* We have innate biases, needs, drives. To ignore them wholly imperils happiness.
-* Humans are not wholly rational creatures; in fact in many instances we are irrational. Given this, it is unreasonable to expect humans to act logically or to be swayed by logical appeal.
+* As I cannot live my life with all of this uncertainty, and I have no compulsion to end it, I must take a leap of faith and believe that the external world is as I find it and find a way to either resolve the uncertainty or to ignore it.
+* Ethics, morality, law, are human products, artefacts of evolution, which in turn are products of the determined or indeterminate universe within which they are embedded, and whilst not having a solid foundation in pure reason, they do have a solid foundation within the context of a smaller, human, every-day framework. 
+* What then can I be sure of, within the framework of the world as I find it? I know that happiness, or wellbeing, or lack-of-bad-things feels good.
 * Happiness is at the root of everything. If you ask yourself, ‘what do I want out of my life?’ or ‘what do I want to do today’?, you will no doubt have a range of answers, from ‘to have a family’, ‘to succeed in my career’, or ‘to pass this exam’. But probe further — why do you want a family, why do you want a successful career or to pass this exam? Keep asking ‘why?’ and you will reach at the final answer: because all things considered you anticipate it will make you happier than not doing it. This is the difference between an instrumental good an intrinsic good. An [intrinsic good](http://philosophy.lander.edu/ethics/intrinsic.html) is not a means to something else.
 * All motives for action are fundamentally selfish, in this regard; all actions are in some measure taken to gain a perceived increase in personal happiness, even if these actions appear altruistic or self-destructive.
 
@@ -31,11 +34,12 @@ When I state something, I do so from within the confines of my own limitations; 
   > -- Blaise Pascal
 
 * Seeking happiness is the guiding heuristic for our behaviour. It is not infallible. When a soldier throws himself on a grenade to save his comrades, the heuristic is operating but failing to realise a longterm reward.
-* Every person you see has an entire universe in their heads
+* Every person you see has an entire universe in their heads, each peculiarly their own and yet overlapping and overlaid on all others
 * The important thing is to live minute to minute, and to realise that each moment is tolerable in itself, the sensations of the moment are if not actively positive then very infrequently negative. It is when projecting outside of the immediate moment that angst, anxiety, inadequacy creep in. Bring mind back to the moment.
-* Chaos theory, computational irreducibility, Gödel’s incompleteness hypothesis, the inability to comprehend something fully, only as a model
-* Intersubjective realities - web of meanings we all agree on. Dollar, nationhood, crusades. Stories we invent and believe
-* Fictions that give meaning to reality
+* You can never know absolutely what the right course of action is
+* Meaning and purpose bring happiness
+* We have innate biases, needs, drives. To ignore them wholly imperils happiness.
+* Humans are not wholly rational creatures; in fact in many instances we are irrational. Given this, it is unreasonable to expect humans to act logically or to be swayed by logical appeal.
 
 ## Why I am inhumane and why the arguments I make won’t go far
 The fact that my beliefs won't transmit widely is perhaps a result of an evolutionarily selective pressure to favour individuals who on average neither hold nor have the capacity to hold such beliefs as I do, as such beliefs do not contribute to a stable society. A stable society would favour those who support its own stability, and so people with the constellation of characteristics that permit them to believe as I do would not be widely represented throughout a given population.
@@ -56,7 +60,7 @@ The fact that my beliefs won't transmit widely is perhaps a result of an evoluti
 * I don’t interact with other people unless I can see something in it for me, hypocritical; distances me from people who feel they act as part of a wider concern
 * I recognise all of these things but don’t try to change myself to make my own or other people’s lives better
 
-# Unresolved
+# Unresolved, unsorted
 * Is there such thing as an axiom? Is there such thing as a primitive? Is ‘force’ or ‘gravity’ or ‘representation’ a primitive concept? Does a primitive even make sense? Does ‘make sense’ make sense? Or is it all only within a given framework. Our given framework is defined as what can be thought using human hardware and expressed using language. 
 * Are all philosophical problems problems of language? i.e. ‘this sentence is false’. What do we do with a paradox? Can the universe admit a paradox?
 * What is truth? 1+1=2? But of course that is true — it defines itself as true! But is there any external validity? Is there a concept of truth that can be in some way verified from without the system? Is this just a problem of language?
@@ -67,6 +71,9 @@ The fact that my beliefs won't transmit widely is perhaps a result of an evoluti
 
 Psychological Hedonism: (a descriptive theory) all people do in fact pursue pleasure. This theory holds that this is not the way people ought to be; this is the way people actually are—they naturally seek pleasure. Hence, the theory is an inductive generalisation from experience by social scientists. [Hedonism](http://philosophy.lander.edu/ethics/hedonism.html) 
 
+* Chaos theory, computational irreducibility, Gödel’s incompleteness hypothesis, the inability to comprehend something fully, only as a model
+* Intersubjective realities - web of meanings we all agree on. Dollar, nationhood, crusades. Stories we invent and believe
+* Fictions that give meaning to reality
 
 ## Actions
 
