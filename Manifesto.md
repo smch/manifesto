@@ -25,8 +25,8 @@ When I state something, I do so from within the confines of my own limitations; 
 * Happiness is at the root of everything. If you ask yourself, ‘what do I want out of my life?’ or ‘what do I want to do today’?, you will no doubt have a range of answers, from ‘to have a family’, ‘to succeed in my career’, or ‘to pass this exam’. But probe further — why do you want a family, why do you want a successful career or to pass this exam? Keep asking ‘why?’ and you will reach at the final answer: because all things considered you anticipate it will make you happier than not doing it. This is the difference between an instrumental good an intrinsic good. An [intrinsic good](http://philosophy.lander.edu/ethics/intrinsic.html) is not a means to something else.
 * All motives for action are fundamentally selfish, in this regard; all actions are in some measure taken to gain a perceived increase in personal happiness, even if these actions appear altruistic or self-destructive.
 
-> All men seek happiness. This is without exception. Whatever different means they employ, they all tend to this end. The cause of some going to war, and of others avoiding it, is the same desire in both, attended with different views. The will never takes the least step but to this object. This is the motive of every action of every man, even of those who hang themselves.
-> -- Blaise Pascal
+  > All men seek happiness. This is without exception. Whatever different means they employ, they all tend to this end. The cause of some going to war, and of others avoiding it, is the same desire in both, attended with different views. The will never takes the least step but to this object. This is the motive of every action of every man, even of those who hang themselves.
+  > -- Blaise Pascal
 
 * Seeking happiness is the guiding heuristic for our behaviour. It is not infallible. When a soldier throws himself on a grenade to save his comrades, the heuristic is operating but failing to realise a longterm reward.
 * Every person you see has an entire universe in their heads
