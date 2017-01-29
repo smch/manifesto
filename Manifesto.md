@@ -31,7 +31,7 @@ When I state something, I do so from within the confines of my own limitations; 
 * Fictions that give meaning to reality
 
 ## Why I am inhumane and why the arguments I make won’t go far
-The fact that my beliefs won't transmit widely is perhaps a result of an evolutionarily selective pressure to favour individuals who on average neither hold nor have the capacity to hold such beliefs, as such beliefs do not contribute to a stable society, and so do not help the constellation of characteristics that permit someone to believe them to spread their genes wildly.
+The fact that my beliefs won't transmit widely is perhaps a result of an evolutionarily selective pressure to favour individuals who on average neither hold nor have the capacity to hold such beliefs as I do, as such beliefs do not contribute to a stable society. A stable society would favour those who support its own stability, and so people with the constellation of characteristics that permit them to believe as I do would not be widely represented throughout a given population.
 
 > False beliefs that happen to promote stable societies tend to propagate because people who hold these beliefs tend to live in stable societies, which provide the means by which false beliefs propagate.
 > -- Daniel M. Gilbert, Stumbling on Happiness
