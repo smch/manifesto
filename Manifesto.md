@@ -4,6 +4,7 @@
 When I state something, I do so from within the confines of my own limitations; from behind the paucity of my experience and within the limitations of the data available to me, from a viewpoint not without biases, known and unknown, not without sloppiness, inconsistency and mutability. I make statements conscious of my own limited ability to integrate and process what limited information I use to support them. Everything I grope towards is forever subject to revision, refinement, disavowal, rewording. With this qualification always and ever present, my intention remains to be clear and true, insofar as that is possible at all.
 
 > Every philosophical discovery which I made so flattered my conceit that I often imagined myself to be a great man discovering new truths for the benefit of humanity
+
 > -- Leo Tolstoy, Childhood, Boyhood, Youth
 
 ## Truths
@@ -26,6 +27,7 @@ When I state something, I do so from within the confines of my own limitations; 
 * All motives for action are fundamentally selfish, in this regard; all actions are in some measure taken to gain a perceived increase in personal happiness, even if these actions appear altruistic or self-destructive.
 
   > All men seek happiness. This is without exception. Whatever different means they employ, they all tend to this end. The cause of some going to war, and of others avoiding it, is the same desire in both, attended with different views. The will never takes the least step but to this object. This is the motive of every action of every man, even of those who hang themselves.
+
   > -- Blaise Pascal
 
 * Seeking happiness is the guiding heuristic for our behaviour. It is not infallible. When a soldier throws himself on a grenade to save his comrades, the heuristic is operating but failing to realise a longterm reward.
@@ -39,7 +41,7 @@ When I state something, I do so from within the confines of my own limitations; 
 The fact that my beliefs won't transmit widely is perhaps a result of an evolutionarily selective pressure to favour individuals who on average neither hold nor have the capacity to hold such beliefs as I do, as such beliefs do not contribute to a stable society. A stable society would favour those who support its own stability, and so people with the constellation of characteristics that permit them to believe as I do would not be widely represented throughout a given population.
 
 > False beliefs that happen to promote stable societies tend to propagate because people who hold these beliefs tend to live in stable societies, which provide the means by which false beliefs propagate.
-> -- Daniel M. Gilbert, Stumbling on Happiness
+> Daniel M. Gilbert, Stumbling on Happiness
 
 ### Personal characteristics that diminish the transmissibility of my beliefs
 * I don’t like or engage with socially normative rituals and behaviours or group activities; sport, weddings, newspapers, television, radio, dancing or Christmas or politics or pets, and so find it hard to relate and fully connect with those who do
@@ -87,91 +89,91 @@ What you want is not a thing, like a house or an apartment, but a state of mind.
 Blest pair! and, O! yet happiest, if ye seek  
 No happier state, and know to know no more! 
 
--- John Milton, Paradise Lost
+John Milton, Paradise Lost
 
 ---
 
 > If he had smiled why would he have smiled? To reflect that each one who enters imagines himself to be the first to enter whereas he is always the last term of a preceding series even if the first term of a succeeding one, each imagining himself to be first, last, only and alone whereas he is neither first nor last nor only nor alone in a series originating in and repeated to infinity.
 
--- James Joyce, Ulysses
+James Joyce, Ulysses
 
 ---
 
 > And then, every morning, he sets himself afresh to the task of earning his bread; and while his hands earn his bread, his dorsal column gains pride, his brain gathers ideas. His task finished, he returns to ineffable ecstasies, to contemplation, to joys; he beholds his feet set in afflictions, in obstacles, on the pavement, in the nettles, sometimes in the mire; his head in the light. He is firm serene, gentle, peaceful, attentive, serious, content with little, kindly; and he thanks God for having bestowed on him those two forms of riches which many a rich man lacks: work, which makes him free; and thought, which makes him dignified.
 
--- Victor Hugo, Les Misérables
+Victor Hugo, Les Misérables
 
 ---
 
 > In town a man can live for a hundred years and never notice that he's long been dead and buried. There's never any time to study your conscience; you're busy all the time. There's business, social life, looking after your health, keeping up with the arts, attending to the health of your children, arranging their education... Well, that's how we lived, and that way we didn't feel so acutely the pain caused by the fact of our living together.
 
- -- Leo Tolstoy, Childhood, Boyhood, Youth
+ Leo Tolstoy, Childhood, Boyhood, Youth
 
 ---
 
 > Algebra applies to the clouds, the radiance of the star benefits the rose--no thinker would dare to say that the perfume of the hawthorn is useless to the constellations. Who could ever calculate the path of a molecule? How do we know that the creations of worlds are not determined by falling grains of sand? Who can understand the reciprocal ebb and flow of the infinitely great and the infinitely small, the echoing of causes in the abyss of being and the avalanches of creation? A mite has value; the small is great, the great is small. All is balanced in necessity; frightening vision for the mind. There are marvelous relations between beings and things, in this inexhaustible whole, from sun to grub, there is no scorn, each needs the other. Light does not carry terrestrial perfumes into the azure depths without knowing what it does with them; night distributes the stellar essence to the sleeping plants. Every bird that flies has the thread of the infinite in its claw. Germination includes the hatching of a meteor and the tap of a swallow's beak breaking the egg, and it guides the birth of the earthworm, and the advent of Socrates. Where the telescope ends, the microscope begins. Which of the two has a greater view? Choose. A bit of mold is a pleiad of flowers; a nebula is an anthill of stars. The same promiscuity, and still more wonderful, between the things of the intellect and material things. Elements and principles are mingled, combined, espoused, multiplied one by another, to the point that the material world, and the moral world are brought into the same light. Phenomena are perpetually folded back on themselves. In the vast cosmic changes, universal life comes and goes in unknown quantities, rolling everything up in the invisible mystery of the emanations, using everything, losing no dream from any single sleep, sowing a microscopic animal here, crumbling a star there, oscillating and gyrating, making a force of light, and an element of thought, disseminated and indivisible dissolving all, that geometric point, the self; reducing everything to the soul-atom; making everything blossom into God; entangling from the highest to the lowest, all activities in the obscurity of a dizzying mechanism, linking the flight of an insect to the movement of the earth, subordinating--who knows, if only by the identity of the law--the evolutions of the comet in the firmament to the circling of the protozoa in the drop of water. A machine made of mind. Enormous gearing, whose first motor is the gnat, and whose last is the zodiac.
 
--- Victor Hugo, Les Misérables
+Victor Hugo, Les Misérables
 
 ---
 
 > Labour is the law; he who rejects it will find ennui his torment
 
--- Victor Hugo, Les Misérables
+Victor Hugo, Les Misérables
 
 ----
 
 > The good is the eternal, the highest aim of our life. No matter how we understand the good, our life is nothing else than a striving towards the good -- that is, towards God.
 
--- Leo Tolstoy, What is Art?
+Leo Tolstoy, What is Art?
 
 ---
 
 > The good is that which no one can define, but which defines everything else.
 
--- Leo Tolstoy, What is Art?
+Leo Tolstoy, What is Art?
 
 ---
 
 > I know that the majority of people who are not only regarded as intelligent but are indeed intelligent, capable of understanding the most difficult scientific, mathematical and philosophical reasonings, are very rarely capable of understanding a most simple and obvious truth, if it is such as requires that they admit that a judgement they have formed about something, sometimes with great effort, a judgement they are proud of, which they have taught to others, on the basis of which they have arranged  their entire life -- that this judgement may be wrong. 
 
--- Leo Tolstoy, What is Art?
+Leo Tolstoy, What is Art?
 
 ---
 
 > To live as wealthy, idle people live, the women especially, away from nature and from animals, in artificial conditions, with muscles atrophied or abnormally developed by gymnastics, and with a weakened vital energy, would be impossible were it not for what is called art, were it not for the diversion, the amusement which turn these people's eyes from the meaninglessness of their lives and saves them from the boredom that oppresses them.
 
--- Leo Tolstoy, What is Art?
+Leo Tolstoy, What is Art?
 
 ---
 
 > No situation is more harmful for artistic productivity than the situation of complete security and luxury in which artists usually live in our society.
 
--- Leo Tolstoy, What is Art?
+Leo Tolstoy, What is Art?
 
 ---
 
 > [Ruskin] Practically, then, at present, 'advancement in life' means, becoming conspicuous in life; obtaining a position which shall be acknowledged by others to be respectable or honourable. We do not understand by this advancement, in general, the mere making of money, but the being known to have made it; not the accomplishment of any great aim, but the being seen to have accomplished it. In a word, we mean the gratification of our thirst for applause.
 
--- Marcel Proust and John Ruskin on Reading
+Marcel Proust and John Ruskin on Reading
 
 ---
 
 > You will begin to perceive that what _you_ thought was a matter of no serious importance;- that your thoughts on any subject are perhaps not the clearest and wisest that could be arrived at thereupon:- in fact, that unless you are a very singular person, you cannot be said to have any 'thoughts' at all; that you have no materials for them, in any serious matters
 
--- Marcel Proust and John Ruskin on Reading
+Marcel Proust and John Ruskin on Reading
 
 ---
 
 > My second sentiment was a craving for love. I wanted every one to know me and to love me. I wanted to be able to utter my name—Nicola Irtenieff—and at once to see every one thunderstruck at it, and come crowding round me and thanking me for something or another, I hardly knew what. My third sentiment was the expectation of some extraordinary, glorious happiness that was impending—some happiness so strong and assured as to verge upon ecstasy
 
--- Leo Tolstoy, Childhood, Boyhood, Youth
+Leo Tolstoy, Childhood, Boyhood, Youth
 
 ---
 
 > It seemed to me that it would be so easy and natural for me to tear myself away from my past and to remake it—to forget all that had been, and to begin my life, with all its relations, anew—that the past never troubled me, never clung to me at all.
 
--- Leo Tolstoy, Childhood, Boyhood, Youth
+Leo Tolstoy, Childhood, Boyhood, Youth
 
 ---
 
@@ -182,7 +184,7 @@ who in the midst of the crowd
 keeps with perfect sweetness;  
 the independence of solitude.
 
---  Ralph Waldo Emerson, Self Reliance
+ Ralph Waldo Emerson, Self Reliance
 
 ---
 
@@ -194,64 +196,64 @@ our religion,
 we have not chosen,
 but society has chosen for us.
 
---  Ralph Waldo Emerson, Self Reliance
+ Ralph Waldo Emerson, Self Reliance
 
 ---
 
 > I had considered how the things that never happen, are often as much realities to us, in their effects, as those that are accomplished.
 
--- Charles Dickens, David Copperfield
+Charles Dickens, David Copperfield
 
 ---
 
 > All men seek happiness. This is without exception. Whatever different means they employ, they all tend to this end. The cause of some going to war, and of others avoiding it, is the same desire in both, attended with different views. The will never takes the least step but to this object. This is the motive of every action of every man, even of those who hang themselves.
 
--- Blaise Pascal
+Blaise Pascal
 
 ---
 
 > In short, we derive support for our preferred conclusions by listening to the words that we put in the mouths of people who have already been preselected for their willingness to say what we want to hear.
 
--- Daniel M. Gilbert, Stumbling on Happiness
+Daniel M. Gilbert, Stumbling on Happiness
 
 ---
 
 > *False beliefs that happen to promote stable societies tend to propagate because people who hold these beliefs tend to live in stable societies, which provide the means by which false beliefs propagate.*
 
--- Daniel M. Gilbert, Stumbling on Happiness
+Daniel M. Gilbert, Stumbling on Happiness
 
 ---
 
 > In short, the production of wealth does not necessarily make individuals happy, but it does serve the needs of the economy, which serves the needs of a stable society, which serves as a network for the propagation of delusional beliefs about happiness and wealth.
 
--- Daniel M. Gilbert, Stumbling on Happiness
+- Daniel M. Gilbert, Stumbling on Happiness
 
 ---
 
 > This particular false belief is a super-replicator because holding it causes us to engage in the very activities that perpetuate it. 
 
---- Daniel M. Gilbert, Stumbling on Happiness
+- Daniel M. Gilbert, Stumbling on Happiness
 
 ---
 
 > 'Children bring happiness' is a super-replicator. The belief-transmission network of which we are a part cannot operate without a continuously replenished supply of people to do the transmitting, thus the belief that children are a source of happiness becomes a part of our cultural wisdom simply because the opposite belief unravels the fabric of any society that holds it.
 
--- Daniel M. Gilbert, Stumbling on Happiness
+Daniel M. Gilbert, Stumbling on Happiness
 
 ---
 
 > The belief-transmission game is rigged so that we _must_ believe that children and money bring happiness, regardless of whether such beliefs are true.
 
--- Daniel M. Gilbert, Stumbling on Happiness
+Daniel M. Gilbert, Stumbling on Happiness
 
 ---
 
 > The most effective device is the bounding of the thinkable, achieved by tolerating debate, even encouraging it, though only within proper limits.
 
--- Noam Chomsky, Necessary Illusions
+Noam Chomsky, Necessary Illusions
 
 ---
 
 > So perhaps happiness is synchronizing one’s personal delusions of meaning with the prevailing collective delusions. As long as my personal narrative is in line with the narrative of the people around me, I can convince myself that my life is meaningful and find happiness in that conviction.
 
--- Yuval Noah Harari, Sapiens
+Yuval Noah Harari, Sapiens
