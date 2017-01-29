@@ -41,7 +41,8 @@ When I state something, I do so from within the confines of my own limitations; 
 The fact that my beliefs won't transmit widely is perhaps a result of an evolutionarily selective pressure to favour individuals who on average neither hold nor have the capacity to hold such beliefs as I do, as such beliefs do not contribute to a stable society. A stable society would favour those who support its own stability, and so people with the constellation of characteristics that permit them to believe as I do would not be widely represented throughout a given population.
 
 > False beliefs that happen to promote stable societies tend to propagate because people who hold these beliefs tend to live in stable societies, which provide the means by which false beliefs propagate.
-> Daniel M. Gilbert, Stumbling on Happiness
+
+> -- Daniel M. Gilbert, Stumbling on Happiness
 
 ### Personal characteristics that diminish the transmissibility of my beliefs
 * I don’t like or engage with socially normative rituals and behaviours or group activities; sport, weddings, newspapers, television, radio, dancing or Christmas or politics or pets, and so find it hard to relate and fully connect with those who do
@@ -77,8 +78,15 @@ time goes fast when you’re busy; you worry about things which are imminent, an
 
 action feels better than inaction; doing something feels better than nothing because it gives you a baseline to improve on or to benchmark against. 
 
-> “occupation is my sheet anchor — my mind would soon devour me without it.” - John Constable 
-> "Those only are happy who have their minds fixed on some object other than their own happiness … Aiming thus at something else, they find happiness along the way." - John Stuart Mill
+> “occupation is my sheet anchor — my mind would soon devour me without it.”
+
+John Constable 
+
+---
+
+> "Those only are happy who have their minds fixed on some object other than their own happiness … Aiming thus at something else, they find happiness along the way."
+
+John Stuart Mill
 
 people need you to give them a narrative. you might even need to give yourself a narrative. 
 
