@@ -230,7 +230,7 @@ but society has chosen for us.
 
 > This particular false belief is a super-replicator because holding it causes us to engage in the very activities that perpetuate it. 
 
--- Daniel M. Gilbert, Stumbling on Happiness
+--- Daniel M. Gilbert, Stumbling on Happiness
 
 ---
 
