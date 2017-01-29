@@ -43,13 +43,15 @@ This document should not be taken to be comprehensive, complete, nor consistent.
 * There are fundamentally unanswerable questions — and most pertinently so in one person's lifetime
 
 ## Why I am inhumane and why the arguments I make won’t go far
-The fact that my beliefs won't transmit widely is perhaps a result of an evolutionarily selective pressure to favour individuals who on average neither hold nor have the capacity to hold such beliefs as I do, as such beliefs do not contribute to a stable society. A stable society would favour those who support its own stability, and so people with the constellation of characteristics that permit them to believe as I do would not be widely represented throughout a given population.
+The fact that my 'level one' belief -- the belief that nothing can be known with certainty, that not even logic nor rationality can be counted on -- won't transmit widely is perhaps a result of an evolutionarily selective pressure to favour individuals who on average neither hold nor have the capacity to hold such beliefs as I do, as such beliefs do not contribute to a stable society. A stable society would favour those who support its own stability, and so people with the constellation of characteristics that permit them to believe as I do would not be widely represented throughout a given population.
 
 > False beliefs that happen to promote stable societies tend to propagate because people who hold these beliefs tend to live in stable societies, which provide the means by which false beliefs propagate.
 
 > -- Daniel M. Gilbert, Stumbling on Happiness
 
-### Personal characteristics that diminish the transmissibility of my beliefs
+And so I have a motivated reason to form my 'level two' beliefs -- those that relate to the world as it appears to be. I want and need to fit in to this world. It is impossible to live with integrity and simultaneously reject everything in the world within which you live. It is no good rejecting and scorning everything around me as I did in my youth; instead it can be assimilated as part of a system of beliefs that sanctions, condones, understands those people and things that seem so alien to my disposition, and it does so _by taking them on their own terms_.
+
+### Personal characteristics that motivate the construction of my ideology
 * I don’t like or engage with socially normative rituals and behaviours or group activities; sport, weddings, newspapers, television, radio, dancing or Christmas or politics or pets, and so find it hard to relate and fully connect with those who do
 * I have no religion, no faith, and can hardly expect to be taken seriously by those who do
 * I evince no national pride, no loyalty, and thus invite the justifiable scorn and contempt of those who do
