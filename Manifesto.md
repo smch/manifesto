@@ -83,6 +83,8 @@ Psychological Hedonism: (a descriptive theory) all people do in fact pursue plea
 * Intersubjective realities - web of meanings we all agree on. Dollar, nationhood, crusades. Stories we invent and believe
 * Fictions that give meaning to reality
 
+Realising that I am the instantiation of a type. Constraints of functional brain architecture. Erroneously feel unique, novel, but only because my type appears to be rare within a normal population and so encountering other running algorithms (people) is difficult. Say 0.01% of people also instantiate the same type: there have been approximately 10 million of us over the course of human history (if the proportion of us within the population has remained constant over time, which it won't have). You are not alone in your methodologies or how you think.
+
 ## Actions
 
 be the source of the greatest pleasure 
