@@ -1,15 +1,22 @@
 # Manifesto
 
-# The disclaimer
-When I state something, I do so from within the confines of my own limitations; from behind the paucity of my experience and within the limitations of the data available to me, from a viewpoint not without biases, known and unknown, not without sloppiness, inconsistency and mutability. I make statements conscious of my own limited ability to integrate and process what limited information I use to support them. Everything I grope towards is forever subject to revision, refinement, disavowal, rewording. With this qualification always and ever present, my intention remains to be clear and true, insofar as that is possible at all.
+# A disclaimer
+I would like what I write here to be as clear and true as I can make it. 
 
-This document should not be taken to be comprehensive, complete, nor consistent.
+I know that I am sloppy, inconsistent, lazy and often wrong, and so what I write is neither as clear nor as true as I would like it to be. 
+
+I consider what I write to be provisional; it is neither comprehensive, complete, nor consistent and my attitude towards it is likely to change with time.  
+
+I would like what I write to be read as though both the style and content were forever open to revision. 
+
+I talk in absolutes but then later change my mind about them. 
+
 
 > Every philosophical discovery which I made so flattered my conceit that I often imagined myself to be a great man discovering new truths for the benefit of humanity
 
 > -- Leo Tolstoy, Childhood, Boyhood, Youth
 
-## Truths
+## What I believe to be Truths
 
 1. Happiness is truth. Happiness is the only thing you know to be good.
 2. The quest is how to live a happy life
@@ -17,6 +24,8 @@ This document should not be taken to be comprehensive, complete, nor consistent.
 4. Death is certain
 
 ## Beliefs
+
+I sometimes think there are different 'levels' of what I believe to be true.
 
 ### Level 1 Beliefs
 * We cannot know what the truth of reality is
