@@ -2,9 +2,9 @@
 Everything you do is about control. You are either controlling yourself, or you are controlling somebody or something else. 
 
 ## Controlling the world
-We have a deep-seated need for control, and we most obviously reveal it in the ways we change our physical environment and seek to influence other people.
+We have a deep-seated need for control, and we most obviously reveal it in the ways we modify our physical environment and seek to influence other people.
 
-We seek to expand our control by controlling the physical environment, resources, ideas, and other people. 
+We seek to express and expand our control by controlling ourselves, our physical environment, resources, ideas, and other people. 
 
 Every action requires and expresses control. We control our body to effect actions, and these actions control the world around us.
 
