@@ -4,7 +4,7 @@ Everything you do is about control. You are either controlling yourself, or you 
 ## Controlling the world
 We have a deep-seated need for control, and we most obviously reveal it in the ways we change our physical environment and seek to influence the people we encounter.
 
-Every act involves an element of control. At a minimum, we control our body to effect actions, and these actions further control the physical world.
+Every act involves an element of control. At a minimum, we control our body to effect actions, and these actions further control the world.
 
 We seek to grow and expand our control by controlling the physical environment, resources, ideas, and other people. 
 
