@@ -21,7 +21,7 @@ The need for control is persistent. It is there even if you are not conscious of
 If you are hungry and you eat, you gain control over your hunger. If you are hungry and you refuse to eat, you exercise self-control over your natural inclination to eat. Either way your behaviour is an act of control.
 
 ## Escaping your need for control
-Can you make a conscious decision to relinquish all control? To live without expressing the need for control would mean avoiding or pursuing any preference whatsoever. A life without control is a life of perfect indifference. Any values you have must not be acted upon. This is the opposite of life, which is characterised by action in the pursuit of value. 
+Can you make a conscious decision to relinquish all control? To live without expressing the need for control would mean neither avoiding or pursuing any preference whatsoever. A life without control is a life of perfect indifference. Any values you have must not be acted upon. This is the opposite of life, which is characterised by action in the pursuit of value. 
 
 If you seek death you still exercise your agency and so control your life by ending it.
 
