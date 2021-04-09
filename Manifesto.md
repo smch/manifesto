@@ -1,10 +1,16 @@
+---
+id: 05bbebc8-bc14-4f14-ab57-eae6fd22c76f
+title: Everything You Do Is about Control
+desc: ''
+updated: 1617983970181
+created: 1617957913941
+---
+
 # Control
 Everything you do is about control. You are either controlling yourself, or you are controlling somebody or something else. 
 
 ## Controlling the world
-We have a deep-seated need for control, and we most obviously reveal it in the ways we modify our physical environment and seek to influence other people.
-
-We seek to express and expand our control by controlling ourselves, our physical environment, resources, ideas, and other people. 
+We have a deep-seated need for control, and we express it by controlling ourselves, our physical environment, resources, ideas, and other people. 
 
 Every action requires and expresses control. We control our body to effect actions, and these actions control the world around us.
 
