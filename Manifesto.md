@@ -28,4 +28,4 @@ If you seek death you still exercise your agency and so control your life by end
 It is impossible to be alive and to escape the need for control.
 
 ## Life as embodied control
-Life is a system of self-perpetuating order, and order requires control. To metabolise, to grow to move, is to control. And so life itself is control; life is the universe gaining control over itself.
+Life is a system of self-perpetuating order, and order requires control. To metabolise, to grow, to move, is to control. And so life itself is control; life is the universe gaining control over itself.
